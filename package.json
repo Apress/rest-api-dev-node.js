@@ -1,0 +1,26 @@
+{
+  "name": "come_n_read",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "config": "^1.30.0",
+    "halson": "^2.3.1",
+    "mongoose": "^5.0.0",
+    "mongoose-json-select": "^0.2.1",
+    "restify": "^6.0.0",
+    "restify-errors": "^6.0.0",
+    "restify-plugins": "^1.6.0",
+    "swagger-node-restify": "^0.1.2",
+    "tv4": "^1.1.9",
+    "tv4-formats": "^1.0.0",
+    "underscore": "^1.7.0",
+    "winston": "^3.0.0-rc2"
+  }
+}
